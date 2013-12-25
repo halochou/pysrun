@@ -1,4 +1,4 @@
-csrun
+pysrun
 =====
 
 SRUN3000 802.1x client for BUAA in Python.
